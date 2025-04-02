@@ -23,4 +23,22 @@ Something that was challenging that could be worked on, such as anything that wa
 Write anything that you think would be important for YOU later on.
 
 ---
+## Week 9 (3-Mar-2025 to 7-Mar-2025):
+-Was acquainted with my mentor
+-Was given access to the existing project GIT
+
+## Week 10 (10-Mar-2025 to 14-Mar-2025):Spring Break
+
+## Week 11 (17-Mar-2025 to 21-Mar-2025):
+-First Proposal Draft was sent and got feedback
+
+## Week 12 (24-Mar-2025 to 28-Mar-2025):
+-Second Proposal Draft was sent
+
+
+
+
+
+
+
 
