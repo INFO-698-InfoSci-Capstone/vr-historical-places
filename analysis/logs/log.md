@@ -35,9 +35,11 @@ Write anything that you think would be important for YOU later on.
 ## Week 12 (24-Mar-2025 to 28-Mar-2025):
 -Second Proposal Draft was sent
 
+## Week 13 (31-Mar-2025 to 4-Apr-2025):
+-Got Proposal Signed and Setup VR environment
 
-
-
+## Week 14 (7-Apr-2025 to 11-Apr-2025):
+-Implement player movement using Quest controllers and hand-tracking
 
 
 
