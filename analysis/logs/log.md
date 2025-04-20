@@ -41,6 +41,8 @@ Write anything that you think would be important for YOU later on.
 ## Week 14 (7-Apr-2025 to 11-Apr-2025):
 -Implement player movement using Quest controllers and hand-tracking
 
-
+## Week 15 (11-Apr-2025 to 18-Apr-2025):
+-Enable object selection via gaze or controller input
+-Implement controller-based teleportation points
 
 
