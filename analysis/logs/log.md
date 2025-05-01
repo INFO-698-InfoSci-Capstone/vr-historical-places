@@ -45,4 +45,8 @@ Write anything that you think would be important for YOU later on.
 -Enable object selection via gaze or controller input
 -Implement controller-based teleportation points
 
+## Week 16 (21-Apr-2025 to 25-Apr-2025):
+-Added Model and functionality to a room to display paintings and information on the paintings 
+-Added a Church model for the player to explore
+
 
