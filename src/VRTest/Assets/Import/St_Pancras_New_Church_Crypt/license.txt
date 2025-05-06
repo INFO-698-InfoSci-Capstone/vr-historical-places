@@ -1,0 +1,11 @@
+Model Information:
+* title:	St Pancras New Church Crypt
+* source:	https://sketchfab.com/3d-models/st-pancras-new-church-crypt-85c68a9125f946af8f5102bb426e2f86
+* author:	artfletch (https://sketchfab.com/artfletch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "St Pancras New Church Crypt" (https://sketchfab.com/3d-models/st-pancras-new-church-crypt-85c68a9125f946af8f5102bb426e2f86) by artfletch (https://sketchfab.com/artfletch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
