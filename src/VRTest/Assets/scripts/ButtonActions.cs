@@ -1,8 +1,8 @@
 using UnityEngine;
+using static UnityEngine.Rendering.DebugUI;
 
 public class ButtonActions : MonoBehaviour
 {
-
     public void ActivePanel(GameObject panel)
     {
         Debug.Log(panel.gameObject.name);

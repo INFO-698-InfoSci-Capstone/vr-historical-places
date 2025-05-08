@@ -11,6 +11,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ChurchScene1.unity
     guid: fe2c7a5bfa7d635418d83d010439cd8b
+  - enabled: 1
+    path: Assets/Scenes/ChurchScene2.unity
+    guid: 08aa44e6abf6f474e8d9685ca2c2288e
+  - enabled: 1
+    path: Assets/Scenes/ChurchScene3.unity
+    guid: 7d68dc8bd826368448757cf77bb537e1
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}

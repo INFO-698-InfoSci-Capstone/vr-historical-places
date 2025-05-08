@@ -3535,6 +3535,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crypt_Veil_Fresco_Fra_0506012707_texture
       objectReference: {fileID: 0}
+    - target: {fileID: 5710514556892006225, guid: c3cad6cf3c001704ba66c784ab1ae8c5, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

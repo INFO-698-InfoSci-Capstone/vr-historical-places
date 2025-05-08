@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\sreek\\UnityProjects\\VRTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B2D3C9BD-93D3-9985-E80C-526886709AB8}|Assembly-CSharp.csproj|c:\\users\\sreek\\unityprojects\\vrtest\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D3C9BD-93D3-9985-E80C-526886709AB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D3C9BD-93D3-9985-E80C-526886709AB8}|Assembly-CSharp.csproj|C:\\Users\\sreek\\UnityProjects\\VRTest\\assets\\scripts\\buttonactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D3C9BD-93D3-9985-E80C-526886709AB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D3C9BD-93D3-9985-E80C-526886709AB8}|Assembly-CSharp.csproj|c:\\users\\sreek\\unityprojects\\vrtest\\assets\\scripts\\buttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D3C9BD-93D3-9985-E80C-526886709AB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D3C9BD-93D3-9985-E80C-526886709AB8}|Assembly-CSharp.csproj|C:\\Users\\sreek\\UnityProjects\\VRTest\\assets\\scripts\\scenechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D3C9BD-93D3-9985-E80C-526886709AB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D3C9BD-93D3-9985-E80C-526886709AB8}|Assembly-CSharp.csproj|C:\\Users\\sreek\\UnityProjects\\VRTest\\assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D3C9BD-93D3-9985-E80C-526886709AB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D3C9BD-93D3-9985-E80C-526886709AB8}|Assembly-CSharp.csproj|C:\\Users\\sreek\\UnityProjects\\VRTest\\assets\\scripts\\collectables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D3C9BD-93D3-9985-E80C-526886709AB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D3C9BD-93D3-9985-E80C-526886709AB8}|Assembly-CSharp.csproj|C:\\Users\\sreek\\UnityProjects\\VRTest\\assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D3C9BD-93D3-9985-E80C-526886709AB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sreek\\UnityProjects\\VRTest\\Library\\PackageCache\\com.unity.render-pipelines.universal@0b68ece7aa54\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@0b68ece7aa54\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2D3C9BD-93D3-9985-E80C-526886709AB8}|Assembly-CSharp.csproj|c:\\users\\sreek\\unityprojects\\vrtest\\assets\\scripts\\buttonactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2D3C9BD-93D3-9985-E80C-526886709AB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sreek\\UnityProjects\\VRTest\\Library\\PackageCache\\com.unity.ugui@03407c6d8751\\Runtime\\UGUI\\UI\\Core\\Button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@03407c6d8751\\Runtime\\UGUI\\UI\\Core\\Button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2D3C9BD-93D3-9985-E80C-526886709AB8}|Assembly-CSharp.csproj|C:\\Users\\sreek\\UnityProjects\\VRTest\\assets\\vrtemplateassets\\scripts\\xrpokefollowaffordancefill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2D3C9BD-93D3-9985-E80C-526886709AB8}|Assembly-CSharp.csproj|solutionrelative:assets\\vrtemplateassets\\scripts\\xrpokefollowaffordancefill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2D3C9BD-93D3-9985-E80C-526886709AB8}|Assembly-CSharp.csproj|C:\\Users\\sreek\\UnityProjects\\VRTest\\assets\\scripts\\closepannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{638D973B-8C36-1726-A630-EED20E631ACD}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|C:\\Users\\sreek\\UnityProjects\\VRTest\\assets\\samples\\xr interaction toolkit\\3.1.1\\starter assets\\scripts\\gazeinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{638D973B-8C36-1726-A630-EED20E631ACD}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|solutionrelative:assets\\samples\\xr interaction toolkit\\3.1.1\\starter assets\\scripts\\gazeinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2D3C9BD-93D3-9985-E80C-526886709AB8}|Assembly-CSharp.csproj|C:\\Users\\sreek\\UnityProjects\\VRTest\\assets\\scripts\\scenechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2D3C9BD-93D3-9985-E80C-526886709AB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sreek\\UnityProjects\\VRTest\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@9b07900cb163\\Runtime\\Interaction\\XRInteractionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +70,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ButtonHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sreek\\UnityProjects\\VRTest\\Assets\\scripts\\ButtonHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ButtonHandler.cs",
+              "ToolTip": "C:\\Users\\sreek\\UnityProjects\\VRTest\\Assets\\scripts\\ButtonHandler.cs",
+              "RelativeToolTip": "Assets\\scripts\\ButtonHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:04:59.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\sreek\\UnityProjects\\VRTest\\Assets\\scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\sreek\\UnityProjects\\VRTest\\Assets\\scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\GameManager.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAIwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:57:03.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Collectables.cs",
+              "DocumentMoniker": "C:\\Users\\sreek\\UnityProjects\\VRTest\\Assets\\scripts\\Collectables.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Collectables.cs",
+              "ToolTip": "C:\\Users\\sreek\\UnityProjects\\VRTest\\Assets\\scripts\\Collectables.cs",
+              "RelativeToolTip": "Assets\\scripts\\Collectables.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T22:38:26.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\sreek\\UnityProjects\\VRTest\\Assets\\scripts\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Item.cs",
+              "ToolTip": "C:\\Users\\sreek\\UnityProjects\\VRTest\\Assets\\scripts\\Item.cs",
+              "RelativeToolTip": "Assets\\scripts\\Item.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwEUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T01:21:46.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\sreek\\UnityProjects\\VRTest\\Assets\\scripts\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Spawner.cs",
+              "ToolTip": "C:\\Users\\sreek\\UnityProjects\\VRTest\\Assets\\scripts\\Spawner.cs",
+              "RelativeToolTip": "Assets\\scripts\\Spawner.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwBkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T01:18:24.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Lit.shader",
               "DocumentMoniker": "C:\\Users\\sreek\\UnityProjects\\VRTest\\Library\\PackageCache\\com.unity.render-pipelines.universal@0b68ece7aa54\\Shaders\\Lit.shader",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@0b68ece7aa54\\Shaders\\Lit.shader",
@@ -71,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "ClosePannel.cs",
               "DocumentMoniker": "C:\\Users\\sreek\\UnityProjects\\VRTest\\Assets\\scripts\\ClosePannel.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\ClosePannel.cs",
@@ -83,14 +161,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "ClosePannel.cs",
               "DocumentMoniker": "C:\\Users\\sreek\\UnityProjects\\VRTest\\Assets\\ClosePannel.cs",
               "RelativeDocumentMoniker": "Assets\\ClosePannel.cs",
               "ToolTip": "C:\\Users\\sreek\\UnityProjects\\VRTest\\Assets\\ClosePannel.cs",
               "RelativeToolTip": "Assets\\ClosePannel.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T02:29:37.458Z"
+              "WhenOpened": "2025-04-27T02:29:37.458Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -100,14 +179,14 @@
               "RelativeDocumentMoniker": "Assets\\scripts\\ButtonActions.cs",
               "ToolTip": "C:\\Users\\sreek\\UnityProjects\\VRTest\\Assets\\scripts\\ButtonActions.cs",
               "RelativeToolTip": "Assets\\scripts\\ButtonActions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T01:53:56.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Button.cs",
               "DocumentMoniker": "C:\\Users\\sreek\\UnityProjects\\VRTest\\Library\\PackageCache\\com.unity.ugui@03407c6d8751\\Runtime\\UGUI\\UI\\Core\\Button.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@03407c6d8751\\Runtime\\UGUI\\UI\\Core\\Button.cs",
@@ -120,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "GazeInputManager.cs",
               "DocumentMoniker": "C:\\Users\\sreek\\UnityProjects\\VRTest\\Assets\\Samples\\XR Interaction Toolkit\\3.1.1\\Starter Assets\\Scripts\\GazeInputManager.cs",
               "RelativeDocumentMoniker": "Assets\\Samples\\XR Interaction Toolkit\\3.1.1\\Starter Assets\\Scripts\\GazeInputManager.cs",
@@ -132,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "XRInteractionManager.cs",
               "DocumentMoniker": "C:\\Users\\sreek\\UnityProjects\\VRTest\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@9b07900cb163\\Runtime\\Interaction\\XRInteractionManager.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@9b07900cb163\\Runtime\\Interaction\\XRInteractionManager.cs",
@@ -145,19 +224,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "SceneChange.cs",
               "DocumentMoniker": "C:\\Users\\sreek\\UnityProjects\\VRTest\\Assets\\scripts\\SceneChange.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\SceneChange.cs",
               "ToolTip": "C:\\Users\\sreek\\UnityProjects\\VRTest\\Assets\\scripts\\SceneChange.cs",
               "RelativeToolTip": "Assets\\scripts\\SceneChange.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA8AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T03:35:30.484Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "SketchfabImporter.cs",
               "DocumentMoniker": "C:\\Users\\sreek\\UnityProjects\\VRTest\\Assets\\Sketchfab For Unity\\Scripts\\SketchfabImporter.cs",
               "RelativeDocumentMoniker": "Assets\\Sketchfab For Unity\\Scripts\\SketchfabImporter.cs",
@@ -169,19 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "XRPokeFollowAffordanceFill.cs",
-              "DocumentMoniker": "C:\\Users\\sreek\\UnityProjects\\VRTest\\Assets\\VRTemplateAssets\\Scripts\\XRPokeFollowAffordanceFill.cs",
-              "RelativeDocumentMoniker": "Assets\\VRTemplateAssets\\Scripts\\XRPokeFollowAffordanceFill.cs",
-              "ToolTip": "C:\\Users\\sreek\\UnityProjects\\VRTest\\Assets\\VRTemplateAssets\\Scripts\\XRPokeFollowAffordanceFill.cs",
-              "RelativeToolTip": "Assets\\VRTemplateAssets\\Scripts\\XRPokeFollowAffordanceFill.cs",
-              "ViewState": "AgIAAI8AAAAAAAAAAAAIwKkAAAB4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T21:52:05.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "RawImage.cs",
               "DocumentMoniker": "C:\\Users\\sreek\\UnityProjects\\VRTest\\Library\\PackageCache\\com.unity.ugui@03407c6d8751\\Runtime\\UGUI\\UI\\Core\\RawImage.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@03407c6d8751\\Runtime\\UGUI\\UI\\Core\\RawImage.cs",

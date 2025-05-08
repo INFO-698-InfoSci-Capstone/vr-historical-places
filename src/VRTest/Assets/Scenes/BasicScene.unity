@@ -127,6 +127,31 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1145039943}
     m_Modifications:
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_text
+      value: ' Although the Thirty Years'' War was more concentrated in central and
+        northern Europe, Italy saw its share of political and religious upheaval.
+        The Church of San Lorenzo in Florence was patronized by the Medici family
+        and continued to serve as a place of worship. The church is known for its
+        Renaissance architecture, including works by Michelangelo and Donatello,
+        standing as a symbol of cultural resilience during a time of conflict.'
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSize
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.x
+      value: 10.397858
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.y
+      value: 10.110626
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 35
+      objectReference: {fileID: 0}
     - target: {fileID: 2029932240079109734, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.00013411
@@ -135,6 +160,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: 490.7
       objectReference: {fileID: 0}
+    - target: {fileID: 3844669251875934301, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: 1f233c4803de7284c98ac69fb4c3cc96, type: 3}
     - target: {fileID: 4963703520578911162, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -239,6 +268,22 @@ PrefabInstance:
       propertyPath: m_TagString
       value: InfoPanel
       objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_text
+      value: San Lorenzo (Florence, Italy)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSize
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.z
+      value: 113.579575
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 60
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 5165197815741893942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
     m_RemovedGameObjects: []
@@ -263,6 +308,47 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1145039943}
     m_Modifications:
+    - target: {fileID: 380872370199692853, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 380872370199692853, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_text
+      value: The Frauenkirche in Dresden, originally built in the 18th century, was
+        heavily damaged during the bombing of Dresden in World War II but survived
+        the turmoil of the Thirty Years' War. It had been a significant Protestant
+        church during the war and a symbol of the strength of the Saxon people. The
+        church was painstakingly reconstructed after its destruction in the 1990s,
+        embodying hope and reconciliation in post-war Germany.
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSize
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.x
+      value: 4.1679688
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.y
+      value: 6.003601
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.z
+      value: 15.339584
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontStyle
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 35
+      objectReference: {fileID: 0}
     - target: {fileID: 2029932240079109734, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.00013411
@@ -270,6 +356,14 @@ PrefabInstance:
     - target: {fileID: 2029932240079109734, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 490.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3844669251875934301, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: 1e8709e861459a249ad33aec46756a14, type: 3}
+    - target: {fileID: 4639751988322117494, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4963703520578911162, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
       propertyPath: m_Pivot.x
@@ -375,6 +469,14 @@ PrefabInstance:
       propertyPath: m_TagString
       value: InfoPanel
       objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_text
+      value: Frauenkirche, Dresden
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.z
+      value: 104.96333
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 5165197815741893942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
     m_RemovedGameObjects: []
@@ -394,6 +496,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1145039943}
     m_Modifications:
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_text
+      value: "The Regensburg Cathedral, a prime example of Gothic architecture, was
+        spared from the worst of the Thirty Years' War, although the city itself
+        suffered greatly. The cathedral\u2019s towering spires and intricate stained
+        glass windows remained relatively intact, becoming a symbol of the resilience
+        of the Bavarian people through centuries of conflict and war."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSize
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.x
+      value: 8.350189
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.y
+      value: 3.24057
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 35
+      objectReference: {fileID: 0}
     - target: {fileID: 2029932240079109734, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.00013411
@@ -402,6 +528,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: 490.7
       objectReference: {fileID: 0}
+    - target: {fileID: 3844669251875934301, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: 1ab0653d93330e04ab9dfcb188ff5800, type: 3}
     - target: {fileID: 4963703520578911162, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -505,6 +635,22 @@ PrefabInstance:
     - target: {fileID: 7216757110291256953, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
       propertyPath: m_TagString
       value: InfoPanel
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_text
+      value: ' Cathedral of St. Peter (Regensburg, Germany)'
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSize
+      value: 39.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.z
+      value: 104.97734
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 39.6
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 5165197815741893942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
@@ -630,6 +776,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+--- !u!1 &152675595 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3311497363002956591, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+  m_PrefabInstance: {fileID: 2111843874}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &299639867
 GameObject:
   m_ObjectHideFlags: 0
@@ -814,6 +965,31 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1145039943}
     m_Modifications:
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_text
+      value: "The Church of St. George in Lviv is a notable example of Ukrainian
+        Baroque architecture. It suffered damage during the war, as Lviv was often
+        contested between Polish and Austrian control. The church\u2019s restoration
+        after the war, including its role as a significant Ukrainian Orthodox site,
+        represents the resilience of Eastern Christianity and its deep cultural ties
+        to the region."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSize
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.x
+      value: 11.934174
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.y
+      value: 7.0050964
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 35
+      objectReference: {fileID: 0}
     - target: {fileID: 2029932240079109734, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.00013411
@@ -822,6 +998,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: 490.7
       objectReference: {fileID: 0}
+    - target: {fileID: 3844669251875934301, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: 5a93094bacd2c1a4ebeba6411befecfd, type: 3}
     - target: {fileID: 4963703520578911162, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -925,6 +1105,22 @@ PrefabInstance:
     - target: {fileID: 7216757110291256953, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
       propertyPath: m_TagString
       value: InfoPanel
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_text
+      value: The Church of St. George (Lviv, Ukraine)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSize
+      value: 46
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.z
+      value: 103.37651
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 46
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 5165197815741893942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
@@ -1175,6 +1371,78 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 5060444177187149915, guid: c6835009e2e22354f8155bf15f4d13a1, type: 3}
+--- !u!1 &947333309
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 947333310}
+  - component: {fileID: 947333312}
+  - component: {fileID: 947333311}
+  m_Layer: 5
+  m_Name: RawImage
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &947333310
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 947333309}
+  m_LocalRotation: {x: -0, y: -0, z: 0.000000014901161, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1518112735}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -0.00000011953, y: 0.61}
+  m_SizeDelta: {x: 2.8202, y: 2.2238}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &947333311
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 947333309}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Texture: {fileID: 2800000, guid: 41518a710d466ff409c4cbe7d93cf5e7, type: 3}
+  m_UVRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+--- !u!222 &947333312
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 947333309}
+  m_CullTransparentMesh: 1
 --- !u!1 &1145039939
 GameObject:
   m_ObjectHideFlags: 0
@@ -1305,6 +1573,11 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RaycastTriggerInteraction: 1
+--- !u!1 &1226288451 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1859846757989380062, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+  m_PrefabInstance: {fileID: 2111843874}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1249617917
 GameObject:
   m_ObjectHideFlags: 0
@@ -1496,6 +1769,11 @@ MonoBehaviour:
   m_Teleporting:
     m_PersistentCalls:
       m_Calls: []
+--- !u!1 &1257561166 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1772015518040587372, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+  m_PrefabInstance: {fileID: 2111843874}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1266151065 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1767192434, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
@@ -1725,6 +2003,31 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1145039943}
     m_Modifications:
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_text
+      value: "St. Vitus Cathedral is located in the heart of Prague Castle. Throughout
+        the Thirty Years' War, the cathedral changed religious denominations, as
+        it served both Catholic and Protestant communities at various points. Despite
+        the war\u2019s impact on the city, the cathedral\u2019s grandeur remained
+        a symbol of Prague\u2019s complex history and shifting allegiances between
+        faiths."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSize
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.x
+      value: 6.697815
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.y
+      value: 6.510254
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 35
+      objectReference: {fileID: 0}
     - target: {fileID: 2029932240079109734, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.00013411
@@ -1733,6 +2036,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: 490.7
       objectReference: {fileID: 0}
+    - target: {fileID: 3844669251875934301, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: ed06ba8ea26c6654183b305f964b8cb5, type: 3}
     - target: {fileID: 4963703520578911162, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1837,6 +2144,22 @@ PrefabInstance:
       propertyPath: m_TagString
       value: InfoPanel
       objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_text
+      value: St. Vitus Cathedral (Prague, Czech Republic)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSize
+      value: 41.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.z
+      value: 100.837296
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 41.4
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 5165197815741893942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
     m_RemovedGameObjects: []
@@ -1853,6 +2176,21 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 7216757110291256953, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
   m_PrefabInstance: {fileID: 1517423130}
   m_PrefabAsset: {fileID: 0}
+--- !u!224 &1518112734 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 3974626281403525043, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+  m_PrefabInstance: {fileID: 2111843874}
+  m_PrefabAsset: {fileID: 0}
+--- !u!224 &1518112735 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 3922710003612038145, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+  m_PrefabInstance: {fileID: 2111843874}
+  m_PrefabAsset: {fileID: 0}
+--- !u!224 &1518112736 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 165241740236407024, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+  m_PrefabInstance: {fileID: 2111843874}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1523289112
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1861,6 +2199,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1145039943}
     m_Modifications:
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_text
+      value: St. Thomas Church in Leipzig was already a prominent site during the
+        Thirty Years' War. Notably, it became the home of Johann Sebastian Bach,
+        who worked as a cantor and composed much of his sacred music there. Though
+        the church endured significant trials during the war, it emerged as a center
+        of both religious worship and musical innovation.
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSize
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.x
+      value: 4.7959595
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.y
+      value: 11.667023
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 35
+      objectReference: {fileID: 0}
     - target: {fileID: 2029932240079109734, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.00013411
@@ -1869,6 +2231,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: 490.7
       objectReference: {fileID: 0}
+    - target: {fileID: 3844669251875934301, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: 1b71255ac693d5e418b32793e60a6e6b, type: 3}
     - target: {fileID: 4963703520578911162, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1973,6 +2339,22 @@ PrefabInstance:
       propertyPath: m_TagString
       value: InfoPanel
       objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_text
+      value: St. Thomas Church (Leipzig, Germany)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSize
+      value: 46.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.z
+      value: 128.79247
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 46.6
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 5165197815741893942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
     m_RemovedGameObjects: []
@@ -1997,6 +2379,38 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1145039943}
     m_Modifications:
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_text
+      value: " St. Michael\u2019s Church, often called \u201CMichel,\u201D was one
+        of the most important Baroque churches in northern Germany. Built in the
+        17th century, it survived the Thirty Years' War but was later damaged by
+        fires. The church's majestic steeple became a symbol of Hamburg, and it continues
+        to stand as a place of spiritual reflection for the city\u2019s residents."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSize
+      value: 35.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.w
+      value: 15.931307
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.x
+      value: 3.9285278
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.y
+      value: 5.674011
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.z
+      value: 9.3480835
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 35.5
+      objectReference: {fileID: 0}
     - target: {fileID: 2029932240079109734, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.00013411
@@ -2005,6 +2419,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: 490.7
       objectReference: {fileID: 0}
+    - target: {fileID: 3844669251875934301, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: 41518a710d466ff409c4cbe7d93cf5e7, type: 3}
     - target: {fileID: 4963703520578911162, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -2109,6 +2527,26 @@ PrefabInstance:
       propertyPath: m_TagString
       value: InfoPanel
       objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_text
+      value: St. Michael's Church, Hamburg
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSize
+      value: 55
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.z
+      value: 96.38075
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontStyle
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 55
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 5165197815741893942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
     m_RemovedGameObjects: []
@@ -2125,6 +2563,78 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 7216757110291256953, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
   m_PrefabInstance: {fileID: 1558934059}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1585961749
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1585961750}
+  - component: {fileID: 1585961752}
+  - component: {fileID: 1585961751}
+  m_Layer: 5
+  m_Name: RawImage
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1585961750
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1585961749}
+  m_LocalRotation: {x: -0, y: -0, z: 0.000000014901161, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1518112736}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -0.00000011953, y: 0.61}
+  m_SizeDelta: {x: 2.8202, y: 2.2238}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1585961751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1585961749}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Texture: {fileID: 2800000, guid: 1b71255ac693d5e418b32793e60a6e6b, type: 3}
+  m_UVRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+--- !u!222 &1585961752
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1585961749}
+  m_CullTransparentMesh: 1
 --- !u!1001 &1593514937
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2133,6 +2643,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1145039943}
     m_Modifications:
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_text
+      value: The Church of St. Nicholas in Prague, a Baroque masterpiece, was founded
+        before the Thirty Years' War but grew in significance afterward. Though the
+        city saw a lot of destruction during the conflict, the church continued to
+        serve as a center of Catholic worship in a city that saw fluctuating control
+        between Protestant and Catholic forces.
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSize
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.x
+      value: 7.345886
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.y
+      value: 7.056122
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 35
+      objectReference: {fileID: 0}
     - target: {fileID: 2029932240079109734, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.00013411
@@ -2141,6 +2675,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: 490.7
       objectReference: {fileID: 0}
+    - target: {fileID: 3844669251875934301, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: bbf9458538f75124f8e0a0ade41d8de2, type: 3}
     - target: {fileID: 4963703520578911162, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -2245,6 +2783,22 @@ PrefabInstance:
       propertyPath: m_TagString
       value: InfoPanel
       objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_text
+      value: Church of St. Nicholas (Prague, Czech Republic)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSize
+      value: 38.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.z
+      value: 103.66704
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 38.6
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 5165197815741893942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
     m_RemovedGameObjects: []
@@ -2261,11 +2815,127 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 7216757110291256953, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
   m_PrefabInstance: {fileID: 1593514937}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1599941508
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1599941509}
+  - component: {fileID: 1599941511}
+  - component: {fileID: 1599941510}
+  m_Layer: 5
+  m_Name: RawImage
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1599941509
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1599941508}
+  m_LocalRotation: {x: -0, y: -0, z: 0.000000014901161, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1518112734}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0.61000013}
+  m_SizeDelta: {x: 2.8202, y: 2.2238}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1599941510
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1599941508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Texture: {fileID: 2800000, guid: 1e8709e861459a249ad33aec46756a14, type: 3}
+  m_UVRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+--- !u!222 &1599941511
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1599941508}
+  m_CullTransparentMesh: 1
 --- !u!1 &1605604902 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7216757110291256953, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
   m_PrefabInstance: {fileID: 18979487}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1627094771
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1627094773}
+  - component: {fileID: 1627094772}
+  m_Layer: 0
+  m_Name: ItemManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1627094772
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1627094771}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08008b2c0410d25498f15a045318c191, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &1627094773
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1627094771}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -14.667156, y: 2.773478, z: -9.662741}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1735397316
 GameObject:
   m_ObjectHideFlags: 0
@@ -2465,6 +3135,31 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1145039943}
     m_Modifications:
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_text
+      value: "The Basilica of St. Francis in Assisi, a pilgrimage site for Catholics,
+        weathered the turmoil of the Thirty Years' War as Italy remained largely
+        outside the direct battlefield of the conflict. Built in the 13th century,
+        the basilica housed the tomb of St. Francis, and its art and architecture
+        remained an important symbol of the Catholic Church\u2019s influence during
+        and after the war."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSize
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.x
+      value: 5.3230896
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.y
+      value: 6.8346252
+      objectReference: {fileID: 0}
+    - target: {fileID: 1114668131588805942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 35
+      objectReference: {fileID: 0}
     - target: {fileID: 2029932240079109734, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.00013411
@@ -2473,6 +3168,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: 490.7
       objectReference: {fileID: 0}
+    - target: {fileID: 3844669251875934301, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: aa81e56ac9f96e84baec8680166b8a2a, type: 3}
     - target: {fileID: 4963703520578911162, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -2576,6 +3275,22 @@ PrefabInstance:
     - target: {fileID: 7216757110291256953, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
       propertyPath: m_TagString
       value: InfoPanel
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_text
+      value: Basilica of St. Francis (Assisi, Italy)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSize
+      value: 52
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_margin.z
+      value: 109.20839
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002943131674635937, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 52
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 5165197815741893942, guid: 5010430928fbacc4e85ba60ff7f41635, type: 3}
@@ -2796,6 +3511,42 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6544925619365174, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_text
+      value: St. Thomas Church (Leipzig, Germany)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6544925619365174, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontSize
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 6544925619365174, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontStyle
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 6544925619365174, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 265567385470982074, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_text
+      value: Basilica of St. Francis (Assisi, Italy)
+      objectReference: {fileID: 0}
+    - target: {fileID: 265567385470982074, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontSize
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 265567385470982074, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontStyle
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 265567385470982074, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 410844051190259017, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 488526371862573350, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1
@@ -2848,6 +3599,30 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1144512089516987977, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: 5a93094bacd2c1a4ebeba6411befecfd, type: 3}
+    - target: {fileID: 1147954940878989601, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_PresetInfoIsWorld
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1711375915438905127, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: 1ab0653d93330e04ab9dfcb188ff5800, type: 3}
+    - target: {fileID: 1714818204558616655, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_PresetInfoIsWorld
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2020583347028014017, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2057040701862581160, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2303617356490506183, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1
@@ -2879,6 +3654,14 @@ PrefabInstance:
     - target: {fileID: 2303617356490506183, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.GameObject, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 2372447057271973608, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: 1f233c4803de7284c98ac69fb4c3cc96, type: 3}
+    - target: {fileID: 2449239499113944591, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_PresetInfoIsWorld
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2942170603428417032, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -2912,6 +3695,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.GameObject, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 3079657122096885224, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3528192551743606630, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1
@@ -2943,6 +3730,118 @@ PrefabInstance:
     - target: {fileID: 3528192551743606630, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.GameObject, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3647699268002638982, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3759394187832644039, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_text
+      value: St. Michael's Church, Hamburg
+      objectReference: {fileID: 0}
+    - target: {fileID: 3759394187832644039, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontSize
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 3759394187832644039, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontStyle
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 3759394187832644039, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 3851979992044487285, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_text
+      value: Frauenkirche, Dresden
+      objectReference: {fileID: 0}
+    - target: {fileID: 3851979992044487285, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontSize
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 3851979992044487285, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontStyle
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 3851979992044487285, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4090110392427600110, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_PresetInfoIsWorld
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4166726741434361865, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: bbf9458538f75124f8e0a0ade41d8de2, type: 3}
+    - target: {fileID: 4337837543242148569, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_text
+      value: St. Vitus Cathedral (Prague, Czech Republic)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4337837543242148569, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontSize
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4337837543242148569, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontStyle
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 4337837543242148569, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4962145129606462909, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_PresetInfoIsWorld
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5009659509375184399, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_PresetInfoIsWorld
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5202752784772478100, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_text
+      value: San Lorenzo (Florence, Italy)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5202752784772478100, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontSize
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5202752784772478100, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontStyle
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 5202752784772478100, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5530985421259097763, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_PresetInfoIsWorld
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5591000102242159851, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5633726374958333543, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5840161520641948277, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_text
+      value: Church of St. Nicholas (Prague, Czech Republic)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5840161520641948277, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontSize
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5840161520641948277, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontStyle
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 5840161520641948277, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 6081143662986566889, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -2976,6 +3875,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.GameObject, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 6119367507487324325, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: ed06ba8ea26c6654183b305f964b8cb5, type: 3}
     - target: {fileID: 6331132277595860581, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1
@@ -3080,6 +3983,26 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.GameObject, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 7439203034298090549, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_text
+      value: The Church of St. George (Lviv, Ukraine)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439203034298090549, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontSize
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439203034298090549, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontStyle
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439203034298090549, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 7741749544927954374, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: aa81e56ac9f96e84baec8680166b8a2a, type: 3}
     - target: {fileID: 7780227373895442826, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1
@@ -3111,6 +4034,14 @@ PrefabInstance:
     - target: {fileID: 7780227373895442826, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.GameObject, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 8135287907512600908, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_PresetInfoIsWorld
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8192997872124527364, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8293384092038647105, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3152,21 +4083,64 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8313193621199469504, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_PresetInfoIsWorld
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8670507116230252539, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
       propertyPath: m_Name
       value: Painting Room
       objectReference: {fileID: 0}
+    - target: {fileID: 8715735282075823016, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8767511714714384410, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8971928635452608927, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
       propertyPath: m_text
-      value: Text Button 10
+      value: More Info
       objectReference: {fileID: 0}
     - target: {fileID: 9068639910303973933, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
       propertyPath: m_text
-      value: Text Button 9
+      value: More Info
+      objectReference: {fileID: 0}
+    - target: {fileID: 9160114122865591643, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_text
+      value: ' Cathedral of St. Peter (Regensburg, Germany)'
+      objectReference: {fileID: 0}
+    - target: {fileID: 9160114122865591643, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontSize
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 9160114122865591643, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontStyle
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 9160114122865591643, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 25
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 2020583347028014017, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+    - {fileID: 2112887125358354547, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+    - {fileID: 2983975803123553410, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+    - {fileID: 3425715915817879168, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+    - {fileID: 3373864648740541746, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+    - {fileID: 1939131204525416899, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 165241740236407024, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      insertIndex: 0
+      addedObject: {fileID: 1585961750}
+    - targetCorrespondingSourceObject: {fileID: 3922710003612038145, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      insertIndex: 0
+      addedObject: {fileID: 947333310}
+    - targetCorrespondingSourceObject: {fileID: 3974626281403525043, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+      insertIndex: 0
+      addedObject: {fileID: 1599941509}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 8670507116230252539, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
       insertIndex: -1
@@ -3199,7 +4173,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   delaySeconds: 2
-  sceneToLoad: ChurchScene1
+  Scenes:
+  - ChurchScene1
+  - ChurchScene2
+  - ChurchScene3
+  - 
+  - 
+  collectables: {fileID: 0}
+  panelsGropupone:
+  - {fileID: 152675595}
+  - {fileID: 1226288451}
+  - {fileID: 1257561166}
+  panelsGroptwo:
+  - {fileID: 2111843884}
+  - {fileID: 2111843883}
+  - {fileID: 2111843882}
+  panelsGroupthree:
+  - {fileID: 2111843881}
+  - {fileID: 2111843880}
+  - {fileID: 2111843879}
 --- !u!1 &2111843877 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8670507116230252539, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
@@ -3217,6 +4209,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f2380d1282b3ab47ab958342405b99d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &2111843879 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7336480113123986061, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+  m_PrefabInstance: {fileID: 2111843874}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2111843880 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3336307488744925603, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+  m_PrefabInstance: {fileID: 2111843874}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2111843881 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5394985128582199852, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+  m_PrefabInstance: {fileID: 2111843874}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2111843882 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5979881585011456834, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+  m_PrefabInstance: {fileID: 2111843874}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2111843883 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1283690399650387136, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+  m_PrefabInstance: {fileID: 2111843874}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2111843884 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9002667242398418028, guid: 3ad6f1fe8330c2f4c8f244ac9e8b3d47, type: 3}
+  m_PrefabInstance: {fileID: 2111843874}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -3232,3 +4254,4 @@ SceneRoots:
   - {fileID: 106445932}
   - {fileID: 2061080399}
   - {fileID: 2111843874}
+  - {fileID: 1627094773}
