@@ -30,3 +30,9 @@
 -Added Artifacts to be found in the church that unlocks the paintings
 - Worked on poster
 
+## Week 17 (5-May-2025 to 9-May-2025):
+- Worked on poster
+- Added Menu
+- Added `Simon Says` minigame to a level
+
+
