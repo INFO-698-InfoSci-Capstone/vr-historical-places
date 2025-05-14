@@ -7,6 +7,13 @@ public class Spawner : MonoBehaviour
 
     void Start()
     {
+        SpawnObject(objectToSpawn);
+    }
+
+
+
+    public void SpawnObject(GameObject objectToSpawn)
+    {
         // Pick a random GameObject from the array
         GameObject selectedObject = meshObjects[Random.Range(0, meshObjects.Length)];
 
@@ -26,7 +33,6 @@ public class Spawner : MonoBehaviour
         Debug.Log(randomPoint);
         Instantiate(objectToSpawn, randomPoint, Quaternion.identity);
     }
-
     Vector3 GetRandomPointOnMesh(Mesh mesh, Transform transform)
     {
         Vector3[] verts = mesh.vertices;

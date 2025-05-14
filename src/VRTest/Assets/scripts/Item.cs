@@ -22,6 +22,9 @@ public class Item : MonoBehaviour
 
     [SerializeField] private Collectables collectables;
 
+
+    [Header("Sound")]
+    public AudioClip pickupSound; // Optional override
     void Start()
     {
         startPosition = transform.position;
@@ -49,34 +52,42 @@ public class Item : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
 
-        Debug.Log("Hit: " + other.gameObject.name);
-        Debug.Log("Hit: " + other.gameObject.ToString());
+        //Debug.Log("Hit: " + other.gameObject.name);
+        //Debug.Log("Hit: " + other.gameObject.ToString());
         if (!hasTriggered && other.gameObject.CompareTag("Player"))
         {
+            AudioSource audioSource = GetComponent<AudioSource>();
+            if (audioSource != null)
+            {
+                if (pickupSound != null)
+                    audioSource.PlayOneShot(pickupSound);
+                else
+                    audioSource.Play(); // fallback to assigned clip
+            }
 
-            if(Scenecount == "one")
+            if (Scenecount == "one")
             {
                 collectables.setCollectArtifactOne(true);
                 Debug.Log("Artifact one set: " + collectables.getArtifactone());
-            }
-            else if (Scenecount == "two")
-            {
-                collectables.setCollectArtifactTwo(true);
-                Debug.Log("Artifact two set: " + collectables.getArtifacttwo());
+               
             }
             else if (Scenecount == "three")
             {
                 collectables.setCollectArtifactThree(true);
                 Debug.Log("Artifact three set: " + collectables.getArtifactthree());
             }
-
             hasTriggered = true;
             StartCoroutine(ChangeSceneAfterDelay());
+            Destroy(gameObject, 0.5f); // Adjust to match clip length
+
         }
     }
     private System.Collections.IEnumerator ChangeSceneAfterDelay()
     {
-        yield return new WaitForSeconds(delaySeconds);
+        Debug.Log("Test"+ sceneToLoad);
         SceneManager.LoadScene(sceneToLoad);
+        //yield return new WaitForSeconds(delaySeconds);
+        yield return null;
+        //return null;
     }
 }

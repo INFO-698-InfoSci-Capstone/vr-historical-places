@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+
 public class GameManager : MonoBehaviour
 {
     public List<Button> buttons; // Assign buttons in inspector
@@ -9,18 +10,19 @@ public class GameManager : MonoBehaviour
     public Color highlightColor = Color.yellow;
     public float delay = 0.6f;
 
+    public GameObject failPanel;
+    public GameObject winPanel;
+    public GameObject itemSpawnner;
+
+    public int sequenceLength = 5; // Maximum sequence length
+
     private List<int> sequence = new List<int>();
     private int playerIndex = 0;
     private bool playerTurn = false;
-    public GameObject failPanel;
-
-    public GameObject winPanel; // Assign in Inspector
-    private int roundCount = 0;
-    public int maxRounds = 7;
 
     void Start()
     {
-        AddStep();
+        AddStep(); // Start with 1 step
         StartCoroutine(PlaySequence());
     }
 
@@ -48,23 +50,14 @@ public class GameManager : MonoBehaviour
     {
         Image panel = panels[index];
 
-        // Store original color
         Color originalColor = panel.color;
-
-        // Create a brighter version of the current color
         Color flashColor = highlightColor * 1.5f;
-        flashColor.a = 1f; // Keep full opacity
+        flashColor.a = 1f;
 
-        // Set panel color to flash
         panel.color = flashColor;
-
-        // Wait briefly
         yield return new WaitForSeconds(0.4f);
-
-        // Restore original color
         panel.color = originalColor;
     }
-
 
     public void OnButtonPressed(int index)
     {
@@ -76,16 +69,14 @@ public class GameManager : MonoBehaviour
 
             if (playerIndex >= sequence.Count)
             {
-                roundCount++;
-
-                if (roundCount >= maxRounds)
+                if (sequence.Count >= sequenceLength)
                 {
                     Debug.Log("Victory! Game complete.");
                     StartCoroutine(HandleWin());
                 }
                 else
                 {
-                    AddStep();
+                    AddStep(); // Add one more step and repeat
                     StartCoroutine(PlaySequence());
                 }
             }
@@ -96,26 +87,24 @@ public class GameManager : MonoBehaviour
             StartCoroutine(HandleFailure());
         }
     }
+
     IEnumerator HandleFailure()
     {
         playerTurn = false;
 
-        // Show fail panel
         if (failPanel != null)
             failPanel.SetActive(true);
 
-        // Wait for 2 seconds (adjust as needed)
         yield return new WaitForSeconds(2f);
 
-        // Hide fail panel
         if (failPanel != null)
             failPanel.SetActive(false);
 
-        // Restart sequence
-        sequence.Clear();
-        AddStep();
+        sequence.Clear();     // Reset sequence
+        AddStep();            // Start again from 1
         StartCoroutine(PlaySequence());
     }
+
     IEnumerator HandleWin()
     {
         playerTurn = false;
@@ -123,8 +112,13 @@ public class GameManager : MonoBehaviour
         if (winPanel != null)
             winPanel.SetActive(true);
 
-        yield return null; // Optionally pause game logic or allow UI animation
+        yield return new WaitForSeconds(2f);
+
+        if (winPanel != null)
+            winPanel.SetActive(false);
+
+        itemSpawnner.SetActive(true);
+        Debug.Log(gameObject.name);
+        gameObject.SetActive(false);
     }
-
-
 }
