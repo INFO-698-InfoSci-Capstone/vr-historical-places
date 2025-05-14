@@ -35,4 +35,6 @@
 - Added Menu
 - Added `Simon Says` minigame to a level
 
-
+## Week 18 (12-May-2025 to 16-May-2025):
+-Added Music to all levels
+-Added TTS for all the painting explainations
